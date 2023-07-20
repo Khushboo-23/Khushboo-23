@@ -1,5 +1,3 @@
-![logo](https://github.com/Khushboo-23/Khushboo-23/blob/main/banner-poster-image_18768.jpg)
-
 <h1 align="center">Hi 👋, I'm Khushboo Khanrah</h1>
 <h3 align="center">Data Science Trainee @Almabetter from India</h3>
 
