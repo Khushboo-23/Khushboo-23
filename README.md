@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **SQl,Python,Machine learning**
 
-- 📫 How to reach me **khushbookhanra@gmail.com**
+
 
 - 📫 How to reach me: [khushbookhanra@gmail.com](khushbookhanra@gmail.com)
 
